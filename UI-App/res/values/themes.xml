@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Wavelynx_minor" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Disable the default ActionBar for all activities -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Wavelynx_minor" parent="Base.Theme.Wavelynx_minor" />
+</resources>
